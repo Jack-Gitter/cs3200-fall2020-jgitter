@@ -1,4 +1,4 @@
-package edu.northeastern.cs3200.controllers.hello;
+package com.example.cs3200fall2020serverjavagitter.hello;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package edu.northeastern.cs3200.controllers.hello;
+package com.example.cs3200fall2020serverjavagitter.hello;
 
 public class HelloObject {
   private String message;
